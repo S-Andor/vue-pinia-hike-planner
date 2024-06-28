@@ -4,5 +4,25 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "mongoose": "^8.4.4"
-  }
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "mongodb express server for hiking page",
+  "main": "server.js",
+  "devDependencies": {
+    "prettier": "3.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "S-Andor",
+  "license": "ISC"
 }
