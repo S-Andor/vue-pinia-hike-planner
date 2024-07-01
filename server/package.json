@@ -10,6 +10,7 @@
   "description": "mongodb express server for hiking page",
   "main": "server.js",
   "devDependencies": {
+    "jest": "^29.7.0",
     "prettier": "3.3.2"
   },
   "scripts": {
